@@ -4,20 +4,20 @@
 
 # 👨‍💻 Felipe Sampaio
 
-### Backend-Focused Senior Software Engineer
+### Senior Software Engineer • Backend Architect • Distributed Systems Engineer
 
-**Node.js • NestJS • Java • Distributed Systems • Web3 • C++ • Game Development**
+**Node.js • NestJS • Java • Cloud Architecture • Web3 • C++ • Systems Engineering**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+scalable+backend+systems;Designing+real-time+applications;Engineering+distributed+architectures;Studying+C%2B%2B+and+Game+Development;Exploring+Web3+and+interactive+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=3B82F6&center=true&vCenter=true&width=980&lines=Designing+scalable+backend+architectures;Building+high-throughput+distributed+systems;Engineering+real-time+infrastructure;Studying+C%2B%2B+and+systems-level+programming;Exploring+cybersecurity+and+game+technology" />
 
 <br/>
 
 <a href="https://github.com/f3sampaio">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/f3sampaio?label=Followers&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/f3sampaio?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Projects-blue?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/felipe-sampaio-marques-18739a109">
@@ -34,34 +34,33 @@
 
 # 🚀 About Me
 
-I'm a Senior Software Engineer with **8+ years of experience** building scalable APIs, distributed systems, and real-time applications.
+Senior Software Engineer with **8+ years of experience** designing, developing, and scaling backend platforms, distributed systems, and real-time applications.
 
-My primary focus is backend engineering using **Node.js (NestJS)** and **Java (Spring)**, with experience across:
+My experience spans enterprise-grade environments across:
 
-- Banking systems
-- Healthcare platforms
-- Fintech solutions
-- Real-time communication systems
-- Blockchain-integrated applications
+- Banking
+- Healthcare
+- Fintech
+- Real-time communication platforms
+- Blockchain-integrated systems
 
-Alongside backend engineering, I am currently studying:
+I specialize in backend engineering with strong expertise in:
 
-- **C++ for systems and performance-oriented programming**
-- **Game development with Unreal Engine and Unity**
-- **Game architecture and gameplay systems**
-- **Data structures and algorithms**
+- **Node.js / NestJS**
+- **Java / Spring Boot**
+- **Distributed architectures**
+- **Scalable REST APIs**
+- **Cloud-native systems**
+- **Real-time infrastructure**
+- **Blockchain integrations**
 
-I enjoy solving engineering problems related to:
+Alongside enterprise software engineering, I am currently expanding my expertise into:
 
-```txt
-Scalability • Distributed Systems • Performance • Architecture • High Throughput
-```
-
-Currently exploring the intersection between:
-
-```txt
-Backend Engineering × Web3 × Real-Time Infrastructure × C++ × Game Development
-```
+- **C++ systems programming**
+- **Cybersecurity fundamentals**
+- **Game technology and engine architecture**
+- **Performance-oriented software engineering**
+- **Low-level systems concepts**
 
 ---
 
@@ -73,71 +72,75 @@ Backend Engineering × Web3 × Real-Time Infrastructure × C++ × Game Developme
 
 </div>
 
-Founder of **F3S Software**, a software engineering company focused on building scalable and reliable digital products.
+Founder of **F3S Software**, a software engineering company focused on building scalable, maintainable, and production-grade digital solutions.
 
-## Core Services
+## Core Areas
 
 ```mermaid
 mindmap
   root((F3S Software))
     Backend Architecture
     Distributed Systems
-    Real-Time Applications
+    Real-Time Infrastructure
     Blockchain Integrations
-    Custom APIs
-    Web & Mobile Apps
+    Enterprise APIs
+    Cloud Solutions
+    Web Applications
+    Mobile Applications
 ```
 
 ---
 
-# ⚙️ Technical Stack
+# ⚙️ Technical Expertise
 
 <div align="center">
 
-| Backend | Frontend | Infrastructure | Systems |
+| Backend Engineering | Frontend | Infrastructure | Systems Engineering |
 |---|---|---|---|
 | Node.js | React | AWS | Distributed Systems |
-| NestJS | Angular | Docker | WebRTC |
-| Java | React Native | GitHub Actions | Blockchain Integration |
-| Spring Boot | TypeScript | Linux | Software Architecture |
-| Express.js | Unity | CI/CD | Event-Driven Systems |
+| NestJS | Angular | Docker | Event-Driven Architecture |
+| Java | React Native | Linux | WebRTC |
+| Spring Boot | TypeScript | GitHub Actions | Software Architecture |
+| Express.js | Unity | CI/CD Pipelines | Blockchain Integration |
 | C++ (Learning) | HTML/CSS | Git | High-Performance Systems |
 
 </div>
 
 ---
 
-# 🧠 Engineering Interests
+# 🧠 Engineering Focus
 
 ```txt
-✔ Backend Scalability
-✔ Distributed Architectures
-✔ Event-Driven Systems
+✔ Scalable Backend Architectures
+✔ Distributed Systems Design
 ✔ High-Throughput Infrastructure
-✔ Real-Time Communication
-✔ Ethereum Payment Monitoring
+✔ Event-Driven Applications
+✔ Real-Time Communication Systems
+✔ Cloud-Native Engineering
+✔ Blockchain Payment Infrastructure
 ✔ Web3 Commerce Models
-✔ C++ Systems Programming
-✔ Game Development
-✔ Software Architecture
+✔ Systems Programming with C++
+✔ Cybersecurity Fundamentals
+✔ Software Performance Optimization
+✔ Game Technology & Engine Architecture
 ```
 
 ---
 
-# 🎮 Current Learning Journey
+# 🔬 Current Technical Exploration
 
 ```cpp
-class CurrentFocus {
+class EngineeringFocus {
 public:
-    vector<string> studying = {
-        "C++",
-        "Data Structures & Algorithms",
-        "System Design",
-        "Game Development",
-        "Unreal Engine",
-        "Unity",
-        "Game Architecture",
-        "Performance Optimization"
+    vector<string> currentTopics = {
+        "C++ Systems Programming",
+        "Cybersecurity Fundamentals",
+        "Linux Internals",
+        "Network Architecture",
+        "Performance Optimization",
+        "Game Engine Architecture",
+        "Real-Time Systems",
+        "Engine-Level Programming"
     };
 };
 ```
@@ -148,9 +151,9 @@ public:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=f3sampaio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3sampaio&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -160,7 +163,7 @@ public:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=f3sampaio&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -169,35 +172,46 @@ public:
 # 🛠 Current Focus
 
 ```yaml
-backend:
-  - High-throughput architectures
-  - Scalable API design
+backend_engineering:
+  - Scalable API ecosystems
   - Distributed systems
   - Event-driven applications
+  - High-throughput infrastructure
 
-web3:
+cloud_and_web3:
   - Ethereum payment infrastructure
-  - ERC-20 monitoring
-  - Blockchain commerce models
+  - ERC-20 monitoring systems
+  - Blockchain commerce integrations
+  - Cloud-native applications
 
-gamedev:
-  - Unreal Engine
-  - Unity
+systems_and_security:
+  - C++ systems programming
+  - Linux ecosystem
+  - Cybersecurity fundamentals
+  - Performance-oriented engineering
+
+game_technology:
+  - Unreal Engine architecture
+  - Unity development
   - Gameplay systems
-  - Game architecture
-  - C++ programming
+  - Engine-level experimentation
 ```
 
 ---
 
-# 📚 Currently Studying
+# 📚 Currently Expanding Expertise
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Studying-313131?style=for-the-badge&logo=unrealengine)
-![Unity](https://img.shields.io/badge/Unity-Game%20Development-000000?style=for-the-badge&logo=unity)
-![Algorithms](https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-Practice-orange?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-Systems%20Programming-00599C?style=for-the-badge&logo=cplusplus)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Infrastructure%20Security-darkred?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-System%20Engineering-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Architecture%20Studies-313131?style=for-the-badge&logo=unrealengine)
+
+![Unity](https://img.shields.io/badge/Unity-Interactive%20Systems-000000?style=for-the-badge&logo=unity)
 
 </div>
 
@@ -211,7 +225,7 @@ gamedev:
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/felipe-sampaio-marques-18739a109">
   <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Sampaio-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -225,6 +239,6 @@ gamedev:
 
 <div align="center">
 
-### 💡 Engineering scalable systems while exploring game technology.
+### 💡 Engineering scalable systems while exploring low-level technologies, cybersecurity, and interactive systems.
 
 </div>
