@@ -6,7 +6,7 @@
 
 ### Senior Software Engineer • Backend Architect • Distributed Systems Engineer
 
-**Node.js • NestJS • Java • Cloud Architecture • Solidity • C++ • Systems Engineering**
+**Node.js • NestJS • Java • Cloud Architecture • Solidity • C++ • Systems Engineering • FrontEnd (React/Angular)**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=3B82F6&center=true&vCenter=true&width=980&lines=Designing+scalable+backend+architectures;Building+high-throughput+distributed+systems;Engineering+real-time+infrastructure;Studying+C%2B%2B+and+systems-level+programming;Exploring+cybersecurity+and+game+technology" />
 
